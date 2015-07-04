@@ -1,5 +1,10 @@
 object1
 object2
 
+<<<<<<< HEAD
 object5
 object6
+=======
+object3
+object4
+>>>>>>> origin/master
